@@ -1,4 +1,4 @@
-#Crítica: Collaborative Filtering Recommender Systems
+# Crítica: Collaborative Filtering Recommender Systems
 
 La lectura de esta semana trata sobre los sistemas recomendadores de filtrado colaborativo. En este paper se cubren los conceptos básicos del tema, sus usos más comunes, la teoría detrás junto con información respecto a la implementación algoritmica de algunos de sus métodos, formas y aspectos a evaluar respecto a los CF, entre otros. En comparación con metodos mas basicos vistos en clases como lo son el recomendar el item más popular o el item con mejor rating, el CF da la posibilidad de personalizar las recomendaciones considerando el gusto personal de cada usuario.
 
